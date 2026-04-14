@@ -7,10 +7,6 @@
 - [Machine Learning Topics](https://github.com/ckayed/cs406_project/wiki/Machine-Learning-Topics)  
 - [Timeline of Events](https://github.com/ckayed/cs406_project/wiki/Timeline-of-Events)
 ---
-- [Project Overview](#project-overview)
-- [Why This Project Matters](#why-this-project-matters)
-- [Key Features](#key-features)
----
 
 ## Project Overview
 This project focuses on building a machine learning system to detect anomalous behavior in system and network security logs. These logs capture events such as login attempts, network traffic, system activity, and user behavior, creating a detailed digital footprint of how a system operates. However, due to the massive volume of log data generated daily, identifying potential threats manually is not scalable.
