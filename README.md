@@ -24,12 +24,12 @@ This project demonstrates how machine learning can enhance cybersecurity by:
 - Improving response time to potential threats  
 - Supporting proactive, data-driven security decisions  
 
-By applying machine learning to real-world datasets, this project highlights how intelligent systems can strengthen defenses and build trust in modern digital infrastructure.
+By applying machine learning to real world datasets, this project highlights how intelligent systems can strengthen defenses and build trust in modern digital infrastructure.
 
 ---
 
 ## Key Features
-- Data preprocessing and feature engineering on real-world cybersecurity datasets  
+- Data preprocessing and feature engineering on real world cybersecurity datasets  
 - Unsupervised learning (Clustering and PCA) for anomaly detection  
 - Supervised models including Logistic Regression, Decision Trees, Random Forest, Naive Bayes, and SVM  
 - Model evaluation using accuracy, precision, recall, and confusion matrices  
