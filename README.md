@@ -2,7 +2,11 @@
 
 
 ---
-- Live Report: https://docs.google.com/document/d/1U6OwMeZhSxewBH2jOoydFC5zGyu3cvHcHXD2vEUDY4k/edit?usp=sharing
+## Related Pages
+- [Live Project Report](https://docs.google.com/document/d/1U6OwMeZhSxewBH2jOoydFC5zGyu3cvHcHXD2vEUDY4k/edit?usp=sharing)
+- [Machine Learning Topics](https://github.com/ckayed/cs406_project/wiki/Machine-Learning-Topics)  
+- [Timeline of Events](https://github.com/ckayed/cs406_project/wiki/Timeline-of-Events)
+---
 - [Project Overview](#project-overview)
 - [Why This Project Matters](#why-this-project-matters)
 - [Key Features](#key-features)
