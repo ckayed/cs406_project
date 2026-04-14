@@ -6,8 +6,6 @@
 - [Project Overview](#project-overview)
 - [Why This Project Matters](#why-this-project-matters)
 - [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-
 ---
 
 ## Project Overview
@@ -37,12 +35,3 @@ By applying machine learning to real-world datasets, this project highlights how
 - Model evaluation using accuracy, precision, recall, and confusion matrices  
 - Visualization of data patterns, anomalies, and model performance  
 - Comparative analysis to determine the most effective models for anomaly detection  
-
----
-
-## Tech Stack
-- **Programming Language:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-learn  
-- **Visualization:** Matplotlib, Seaborn  
-- **Development Environment:** Jupyter Notebook  
-- **Datasets:** CIC-IDS2017, UNSW-NB15  
